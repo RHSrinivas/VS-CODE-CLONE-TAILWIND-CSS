@@ -5,3 +5,6 @@ you don't have to write custom CSS to style your application. Instead, you can u
 About the Project:
   I have cloned VS CODE using tailwind CSS and added some own features to it.
 
+Projected hosted site:
+
+rh-srinivas-tailwind-css.netlify.app
