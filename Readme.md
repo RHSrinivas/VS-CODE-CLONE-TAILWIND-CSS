@@ -6,4 +6,4 @@ About the Project:
   I have cloned VS CODE using tailwind CSS and added some own features to it.
 
 Projected hosted site:
-](https://rh-srinivas-tailwind-css.netlify.app)
+https://rh-srinivas-tailwind-css.netlify.app
