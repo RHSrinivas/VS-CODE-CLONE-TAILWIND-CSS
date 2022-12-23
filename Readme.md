@@ -7,4 +7,4 @@ About the Project:
 
 Projected hosted site:
 
-rh-srinivas-tailwind-css.netlify.app
+[rh-srinivas-tailwind-css.netlify.app](https://app.netlify.com/sites/rh-srinivas-tailwind-css/overview)
