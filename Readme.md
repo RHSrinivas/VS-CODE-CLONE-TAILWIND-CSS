@@ -8,7 +8,7 @@ About the Project:
 Projected hosted site:
 https://rh-srinivas-tailwind-css.netlify.app
 
-Vs-code link:
+Github link:
 https://github.com/RHSrinivas/VS-CODE-CLONE-TAILWIND-CSS
 
 Demo:
