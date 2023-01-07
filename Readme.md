@@ -3,7 +3,7 @@ Tailwind CSS makes it quicker to write and maintain the code of your application
 we don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application
 
 About the Project:
-  I have cloned VS CODE using tailwind CSS and added some own features to it.
+  I have cloned VS CODE using tailwind CSS and added some custom ui templates to it.
 
 Projected hosted site:
 https://rh-srinivas-tailwind-css.netlify.app
